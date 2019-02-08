@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/convertcurrencies/static/js/runtime~main.94f079ea.js"
   },
   {
-    "revision": "b3b37b793df3a9bc4527",
-    "url": "/convertcurrencies/static/js/main.b3b37b79.chunk.js"
+    "revision": "9abb9a4be3621cae8a00",
+    "url": "/convertcurrencies/static/js/main.9abb9a4b.chunk.js"
   },
   {
     "revision": "6b6649210ea720f3c26f",
     "url": "/convertcurrencies/static/js/1.6b664921.chunk.js"
   },
   {
-    "revision": "b3b37b793df3a9bc4527",
-    "url": "/convertcurrencies/static/css/main.80964a7d.chunk.css"
+    "revision": "9abb9a4be3621cae8a00",
+    "url": "/convertcurrencies/static/css/main.d1af4155.chunk.css"
   },
   {
-    "revision": "2d4b5f1566ee66575f34de289bc7e78e",
+    "revision": "e538f6cf3f164ae7bbc028aecd1cf059",
     "url": "/convertcurrencies/index.html"
   }
 ];
