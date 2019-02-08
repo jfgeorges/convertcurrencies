@@ -5,7 +5,8 @@
   margin: auto;
   height: 100vh;
   max-width: 800px;
-  background-color: #f9f9f9;
+  background: rgb(7, 4, 56);
+  background: linear-gradient(151deg, rgba(7, 4, 56, 1) 0%, rgba(15, 15, 106, 1) 44%, rgba(45, 164, 189, 1) 100%);
 }
 
 header {
@@ -55,7 +56,7 @@ form {
   align-items: center;
   justify-content: space-around;
   border-radius: 5px;
-  background-color: #f1f3f4;
+  background-color: rgb(241, 243, 244, 0.9);
   width: 40%;
   height: 200px;
 }
@@ -66,6 +67,7 @@ form {
   width: 5%;
   font-size: 20px;
   font-weight: bold;
+  color: white;
 }
 
 input[type="text"] {
